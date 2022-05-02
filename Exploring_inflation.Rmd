@@ -1,0 +1,17 @@
+---
+title: "Exploring_Inflation"
+output: html_document
+date: '2022-05-02'
+---
+
+Load the expected packages
+```{r}
+
+```
+
+
+Load the downloaded data
+```{r}
+
+```
+
